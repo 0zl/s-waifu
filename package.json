@@ -1,0 +1,20 @@
+{
+  "name": "s-waifu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0zl/s-waifu.git"
+  },
+  "keywords": [],
+  "author": "0zl (ize)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0zl/s-waifu/issues"
+  },
+  "homepage": "https://github.com/0zl/s-waifu#readme"
+}
